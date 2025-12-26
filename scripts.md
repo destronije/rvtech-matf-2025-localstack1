@@ -36,3 +36,4 @@ awslocal lambda create-function \
 --zip-file fileb://function.zip \
 --role arn:aws:iam::000000000000:role/lambda-role
 ```
+
